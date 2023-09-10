@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0B82421E-4E3F-0E51-4216-7A8DF7E6331B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MobileTestingDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
